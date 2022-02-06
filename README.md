@@ -1,1 +1,1 @@
-# Reddit-Command-Bot
+# Reddit-Comment-Bot
