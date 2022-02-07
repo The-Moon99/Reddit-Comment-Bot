@@ -9,4 +9,4 @@ Before use please read the Reddit bot rules: https://www.reddit.com/r/Bottiquett
 
 The bot chooses between 4 random word(s)/sentences, you can change this to what you want the bot to comment.
 
-(An Reddit acount is required)
+(An Reddit account is required)
