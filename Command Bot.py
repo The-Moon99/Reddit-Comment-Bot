@@ -9,7 +9,7 @@ reddit = praw.Reddit(
 username='username',
 password='password')
 
-subreddit = reddit.subreddit("")
+subreddit = reddit.subreddit("subreddit")
 
 hello_hello = ["hello world",
                "hello world",
