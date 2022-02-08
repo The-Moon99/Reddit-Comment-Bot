@@ -5,11 +5,11 @@ import time
 reddit = praw.Reddit(
     client_id="Client id",
     client_secret="client secret",
-    user_agent="user agent",
+    user_agent="user agent"
 username='username',
 password='password')
 
-subreddit = reddit.subreddit("subreddit")
+subreddit = reddit.subreddit("")
 
 hello_hello = ["hello world",
                "hello world",
